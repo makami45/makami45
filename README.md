@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning css and javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me xuannhat15324@gmail.com
+- 📫 How to reach me longnhatyi@gmai.com
 
 <!---
 makami45/makami45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
